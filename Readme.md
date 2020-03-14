@@ -5,7 +5,7 @@
 npm i
 ```
 
-* Update your `.env` file
+* Rename `.env.example` to `.env` and update the value of `AWS_PROFILE`  and `QUEUE_URL` 
 
 ```
 AWS_PROFILE=YOUR_AWS_PROFILE
